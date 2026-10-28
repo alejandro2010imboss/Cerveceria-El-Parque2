@@ -28,7 +28,7 @@ export interface MenuCategory {
 }
 
 export const restaurant = {
-  name: 'Bodega Lumbre',
+  name: 'Cerveceria El Parque',
   tagline: 'Tapas de mercado, vino y sobremesa',
   address: 'Calle de la Cava Baja, 24',
   city: '28005 Madrid',
